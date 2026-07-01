@@ -23,6 +23,13 @@ The project uses MongoDB to store users and wishlist items.
 - PyMongo
 - python-dotenv
 
+## Screenshots
+
+<img width="910" height="793" alt="image" src="https://github.com/user-attachments/assets/ae499f74-7f33-4684-8993-15a603d94f25" />
+<img width="1004" height="896" alt="image" src="https://github.com/user-attachments/assets/a8d970c1-9d88-492c-b183-f201f263c7ab" />
+<img width="1004" height="248" alt="image" src="https://github.com/user-attachments/assets/346e47ee-5389-4963-9538-306fcaf622c8" />
+<img width="792" height="183" alt="image" src="https://github.com/user-attachments/assets/f1641403-dee5-4c3c-8470-1ee6f32e056c" />
+
 ## Bot Commands
 
 ```text
@@ -34,11 +41,6 @@ The project uses MongoDB to store users and wishlist items.
 /view_user - View another user's wishlist
 /my_id - Show your Telegram ID
 
-## Screenshots
-<img width="910" height="793" alt="image" src="https://github.com/user-attachments/assets/ae499f74-7f33-4684-8993-15a603d94f25" />
-<img width="1004" height="896" alt="image" src="https://github.com/user-attachments/assets/a8d970c1-9d88-492c-b183-f201f263c7ab" />
-<img width="1004" height="248" alt="image" src="https://github.com/user-attachments/assets/346e47ee-5389-4963-9538-306fcaf622c8" />
-<img width="792" height="183" alt="image" src="https://github.com/user-attachments/assets/f1641403-dee5-4c3c-8470-1ee6f32e056c" />
 
 
 
